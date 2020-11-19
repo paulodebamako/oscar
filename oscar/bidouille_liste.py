@@ -46,3 +46,5 @@ for colonne in range(0,6):
             pass
 print('espace') 
 print(liste_f)
+
+print('c ciao mon gars')
